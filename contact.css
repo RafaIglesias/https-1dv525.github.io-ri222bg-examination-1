@@ -1,0 +1,33 @@
+@font-face{
+    font-family: ninja;
+    src: url(NinjaStrike.otf);
+
+}
+input[type=text],input[type=textarea]{
+    font-family: ninja;
+       
+}
+
+main{
+
+    background-image: url(contact.jpeg);
+    background-size:cover;
+    font-size: 130%;
+}
+
+.content{
+    
+    color: white;
+
+}
+.submit:hover {
+    
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;  
+    margin: 4px 2px;
+    padding: 15px 32px;
+
+}

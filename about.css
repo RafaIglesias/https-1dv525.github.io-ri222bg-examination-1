@@ -1,0 +1,61 @@
+@font-face{
+    font-family: 3dhands;
+    src: url(3dhand.ttf);
+
+}
+@font-face{
+    font-family: ninja;
+    src: url(NinjaStrike.otf);
+
+}
+html{
+    font-family: ninja;
+}
+
+.listh{
+font-size: 200%;
+
+}
+.desiigner{
+
+width: 10%;
+height: auto;
+
+}
+.liluzivert{
+
+width: 10%;
+height: auto;
+
+}
+.guccimane{
+
+width: 10%;
+height: auto;
+
+}
+.lilyachty{
+
+width: 10%;
+height: auto;
+
+}
+.quavohuncho{
+
+width: 10%;
+height: auto;
+
+}
+.timespendingh{
+font-size: 200%;
+
+}
+
+.videoh{
+font-size: 200%;
+
+}
+.biggertext{
+    font-size: 300%;
+
+}
